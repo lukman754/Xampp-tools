@@ -3,7 +3,8 @@
 ## Description
 This program is a simple tool to manage key XAMPP functionalities, such as opening the XAMPP Control Panel, changing the Apache port, fixing the MySQL directory, and accessing phpMyAdmin. It features a user-friendly GUI built with `tkinter`.
 
-![image](https://github.com/user-attachments/assets/1de23ca3-d4a6-4af3-a40f-fc24b8d40ac7)
+![403430975-1de23ca3-d4a6-4af3-a40f-fc24b8d40ac7 (1)](https://github.com/user-attachments/assets/c23d57a3-3aba-41d2-9a06-d7134ecb4e72)
+
 
 ---
 
