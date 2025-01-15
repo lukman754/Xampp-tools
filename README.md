@@ -82,26 +82,8 @@ Here's the improved description using English:
 
 ---
 
-## License
-This program is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. For more information about the license, visit [GPL-3.0 License Details](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
----
-
 ## Contributors
 Created by: **Lukman Muludin**  
 GitHub: [Lukman754](https://github.com/Lukman754)
-
----
-
-### Tag/Keyword
-XAMPP Tools, Apache port changer, MySQL fix tool, phpMyAdmin launcher, XAMPP management, MySQL shutdown unexpectedly, Apache blocked port, XAMPP troubleshooting, XAMPP GUI tool, fix MySQL data directory, XAMPP utilities, Apache configuration tool, manage XAMPP services, XAMPP helper, MySQL error repair, MySQL backup restoration, Apache port settings, XAMPP Windows tool, localhost management, Apache port blocked fix, MySQL crash fix
-
-08:19:20  [mysql] 	Error: MySQL shutdown unexpectedly.
-08:19:21  [mysql] 	This may be due to a blocked port, missing dependencies, 
-08:19:21  [mysql] 	improper privileges, a crash, or a shutdown by another method.
-08:19:21  [mysql] 	Press the Logs button to view error logs and check
-08:19:21  [mysql] 	the Windows Event Viewer for more clues
-08:19:21  [mysql] 	If you need more help, copy and post this
-08:19:21  [mysql] 	entire log window on the forums
 
 
