@@ -84,6 +84,5 @@ Here's the improved description using English:
 
 ## Contributors
 Created by: **Lukman Muludin**  
-GitHub: [Lukman754](https://github.com/Lukman754)
 
 
