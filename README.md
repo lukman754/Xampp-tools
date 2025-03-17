@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/51cd4ff7-c63c-4fe1-b55a-c60e16ac5e73
 
 ### 📦 Download Sekarang
 
-| [![Setup Installer](https://img.shields.io/badge/Download-Setup%20Installer-00C853?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0.0/XAMPP.Tools-Setup-1.0.0.exe) | [![MSI Installer](https://img.shields.io/badge/Download-MSI%20Installer-2962FF?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0.0/XAMPP.Tools-Installer-1.0.0.msi) | [![Portable](https://img.shields.io/badge/Download-Portable-7E57C2?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0.0/XAMPP.Tools-Portable-1.0.0.exe) |
+| [![Setup Installer](https://img.shields.io/badge/Download-Setup%20Installer-00C853?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Setup-1.0.0.exe) | [![MSI Installer](https://img.shields.io/badge/Download-MSI%20Installer-2962FF?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Installer-1.0.0.msi) | [![Portable](https://img.shields.io/badge/Download-Portable-7E57C2?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Portable-1.0.0.exe) |
 |:---:|:---:|:---:|
 | 74.8 MB | 84.4 MB | 74.5 MB |
 
