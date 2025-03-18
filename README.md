@@ -66,7 +66,7 @@
 ## ⚡ Fitur Utama
 
 - ### 🚀 **Pembuatan Proyek Instan**
-  Buat proyek web baru dalam hitungan detik dengan template modern dan responsif yang siap pakai. Tidak perlu lagi membuat struktur folder atau file dasar secara manual!
+  Buat proyek web baru secara instant.
 
 - ### 🔗 **Integrasi VS Code**
   Buka dan edit proyek Anda dengan sekali klik langsung dari aplikasi. Integrasikan alur kerja pengembangan Anda dengan mulus antara XAMPP dan editor kode favorit Anda.
