@@ -27,10 +27,14 @@ https://github.com/user-attachments/assets/51cd4ff7-c63c-4fe1-b55a-c60e16ac5e73
 **XAMPP Tools** adalah aplikasi desktop yang mempercepat alur kerja pengembangan web Anda dengan XAMPP. Aplikasi ini menyediakan berbagai alat yang menyederhanakan pembuatan proyek, pengelolaan server, dan pemecahan masalah umum.
 
 ### 📦 Download Sekarang
+<div align="center">
 
-| [![Setup Installer](https://img.shields.io/badge/Download-Setup%20Installer-00C853?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Setup-1.0.0.exe) | [![MSI Installer](https://img.shields.io/badge/Download-MSI%20Installer-2962FF?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Installer-1.0.0.msi) | [![Portable](https://img.shields.io/badge/Download-Portable-7E57C2?style=for-the-badge&logo=windows)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Portable-1.0.0.exe) |
+| [![Setup Installer](https://img.shields.io/badge/Setup_Installer-Download_Now-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Setup-1.0.0.exe) | [![MSI Installer](https://img.shields.io/badge/MSI_Installer-Download_Now-2962FF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Installer-1.0.0.msi) | [![Portable](https://img.shields.io/badge/Portable-Download_Now-7E57C2?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Portable-1.0.0.exe) |
 |:---:|:---:|:---:|
-| 74.8 MB | 84.4 MB | 74.5 MB |
+| ![Size](https://img.shields.io/badge/Size-74.8_MB-gray?style=flat-square) | ![Size](https://img.shields.io/badge/Size-84.4_MB-gray?style=flat-square) | ![Size](https://img.shields.io/badge/Size-74.5_MB-gray?style=flat-square) |
+| ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square) | ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square) | ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square) |
+
+</div>
 
 ### ⚡ Fitur Utama
 
