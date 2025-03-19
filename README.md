@@ -27,9 +27,9 @@
   
 | Jenis | Ukuran | Versi | Download |
 |:---:|:---:|:---:|:---:|
-| **Setup Installer** | 74.8 MB | 1.0.0 | [![Download Setup](https://img.shields.io/badge/DOWNLOAD_SETUP-00C853?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Setup-1.0.0.exe) |
-| **MSI Installer** | 84.4 MB | 1.0.0 | [![Download MSI](https://img.shields.io/badge/DOWNLOAD_MSI-2962FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Installer-1.0.0.msi) |
-| **Portable** | 74.5 MB | 1.0.0 | [![Download Portable](https://img.shields.io/badge/DOWNLOAD_PORTABLE-7E57C2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v.1.0/XAMPP.Tools-Portable-1.0.0.exe) |
+| **Setup Installer** | 74.8 MB | 1.0.1 | [![Download Setup](https://img.shields.io/badge/DOWNLOAD_SETUP-00C853?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v1.0.1/XAMPP.Tools-Setup-1.0.1.exe)|
+| **MSI Installer** | 84.4 MB | 1.0.1 | [![Download MSI](https://img.shields.io/badge/DOWNLOAD_MSI-2962FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v1.0.1/XAMPP.Tools-Installer-1.0.1.msi) |
+| **Portable** | 74.5 MB | 1.0.1 | [![Download Portable](https://img.shields.io/badge/DOWNLOAD_PORTABLE-7E57C2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lukman754/Xampp-tools/releases/download/v1.0.1/XAMPP.Tools-Portable-1.0.1.exe) |
 </div>
 
 ### Langkah-langkah Instalasi:
