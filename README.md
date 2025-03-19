@@ -11,11 +11,7 @@
 
   <img src="https://github.com/user-attachments/assets/a184bde8-efad-44f8-a868-155510ebd9a8" alt="Xampp-tools Screenshot">
 
-  
-
-https://github.com/user-attachments/assets/fa6a0a7b-ebf3-4e84-b8cf-37eb3ea505d1
-
-
+https://github.com/user-attachments/assets/2be68eb0-44a6-4826-8081-1986461fc7c0
 
 <a href="https://www.youtube.com/watch?v=nVU0sxQmyBM" target="_blank">
   <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300" alt="Watch on YouTube">
@@ -100,12 +96,8 @@ https://github.com/user-attachments/assets/fa6a0a7b-ebf3-4e84-b8cf-37eb3ea505d1
 1. **Pastikan XAMPP terinstal** terlebih dahulu di komputer Anda.
 2. **Buka XAMPP Tools** setelah instalasi selesai.
 3. **Mulai Server Apache dan MySQL** langsung dari panel kontrol XAMPP Tools.
-4. **Buat proyek baru:**
-   - Klik tombol "New Project"
-   - Pilih template yang sesuai dengan kebutuhan Anda
-   - Isi nama proyek dan lokasi penyimpanan
-   - Klik "Create" dan proyek siap digunakan!
-5. **Edit proyek** dengan mengklik tombol "Open with VS Code" untuk membuka proyek di Visual Studio Code.
+4. **Buat proyek baru:** Buat project secara instant
+6. **Edit proyek** dengan mengklik tombol "Open with VS Code" untuk membuka proyek di Visual Studio Code.
 
 ## 📸 Template Project
 
