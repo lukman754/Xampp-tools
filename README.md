@@ -9,9 +9,21 @@
   [![Made with Electron](https://img.shields.io/badge/made%20with-electron-2b2e3b.svg?logo=electron&style=for-the-badge)](https://www.electronjs.org/)
   [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-  <img src="https://github.com/user-attachments/assets/0cd9db83-9766-4edb-83a3-505b99b21e86" alt="App Screenshot" width="800">
+  <img src="https://github.com/user-attachments/assets/a184bde8-efad-44f8-a868-155510ebd9a8" alt="Xampp-tools Screenshot">
+
   
-  [![Demo Video](https://github.com/user-attachments/assets/51cd4ff7-c63c-4fe1-b55a-c60e16ac5e73)](https://github.com/user-attachments/assets/51cd4ff7-c63c-4fe1-b55a-c60e16ac5e73)
+
+https://github.com/user-attachments/assets/fa6a0a7b-ebf3-4e84-b8cf-37eb3ea505d1
+
+
+
+<a href="https://www.youtube.com/watch?v=nVU0sxQmyBM" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300" alt="Watch on YouTube">
+</a>
+
+
+
+  
   
 </div>
 
